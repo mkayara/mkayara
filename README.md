@@ -6,7 +6,7 @@ I enjoy turning untidy data and repetitive work into reliable systems and useful
 
 ## About
 
-I bring together a software engineering mindset and an interest in how data can support practical decisions. In Retail Credit Risk at Al Rajhi Bank Malaysia, I worked on data quality, reporting, UAT, and workflow automation. A Python extraction tool I developed reduced a recurring manual process from days to about three minutes, while keeping execution local and mindful of data handling.
+I bring together a software engineering mindset and an interest in how data can support practical decisions. In Retail Credit Risk at Al Rajhi Bank Malaysia, I worked on data quality, reporting, UAT, and workflow automation. A Python extraction tool I developed reduced a recurring manual process from days to 2-3 minutes, while keeping execution local and mindful of data handling and governance standards.
 
 I also value the communication behind good technical work: understanding a problem, documenting the approach, and making results clear to the people who use them.
 
