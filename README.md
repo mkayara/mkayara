@@ -29,7 +29,7 @@ I also value the communication behind good technical work: understanding a probl
 
 - [**Fullstack Portfolio**](https://github.com/mkayara/fullstack-portfolio) — A responsive Next.js and Tailwind CSS showcase inspired by a hands-on web development workshop.
 
-Some other work is not published: a local-first prototype for document search and evidence-grounded data questions, an academic Hive/Spark/HBase pipeline experiment, and internal reporting automation. No employer data or confidential code is included here.
+Some additional work is private or not yet public: a local-first prototype for document search and evidence-grounded data questions, an academic Hive/Spark/HBase pipeline experiment, and internal reporting automation. No employer data or confidential code is included here.
 
 ## Experience and education
 
