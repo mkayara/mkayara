@@ -33,9 +33,9 @@ Some additional work is private or not yet public: a local-first prototype for d
 
 ## Experience and education
 
-- **Retail Credit Risk Attachment Trainee**, Al Rajhi Bank Malaysia — September 2025 to June 2026.
+- **Retail Credit Risk Attachment Trainee**, **Al Rajhi Bank Malaysia** — September 2025 to June 2026.
 - **Computer Science (Hons)**, Taylor's University and the University of the West of England.
-- University event leadership and student-community work, including event logistics, outreach, and communications, including at Google Developer Student Clubs.
+- University event leadership and student-community work, including event logistics, outreach, and communications, including at **Google Developer Student Clubs**.
 
 ## Toolkit
 
